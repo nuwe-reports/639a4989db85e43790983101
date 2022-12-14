@@ -6,5 +6,5 @@
     "componentFolder": "src",
     "testFiles": "**/*spec.{js,jsx,ts,tsx}"
   },
-  "key": true
+  "key": false
 }
