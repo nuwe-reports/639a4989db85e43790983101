@@ -12,6 +12,7 @@
 # This should make it easy to add new rules without breaking existing ones.
 
 # Testing assets
-cypress.json                             @estefaniaderosa
-/cypress/**                              @estefaniaderosa
-/src/App.spec.js                         @estefaniaderosa
+cypress.json                             @team-nuwe
+/.github/**                              @team-nuwe
+/cypress/**                              @team-nuwe
+/src/App.spec.js                         @team-nuwe
